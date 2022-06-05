@@ -1,2 +1,2 @@
 # novosite
-https://github.com/projetosara/novosite.git
+https://projetosara.github.io/novosite/
